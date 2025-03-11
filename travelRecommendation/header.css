@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -7px;
+  }
+
+  .rightNav,
+  .centerNav,
+  .leftNav{
+    display: flex;
+    align-items: center;
+    gap: 20px
+  }
+  .centerNav {
+    font-size: 20px;
+    text-decoration: none;
+    color: green;
+  }
+ 
+.logo{
+    width: 100px;
+} 
